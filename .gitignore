@@ -1,4 +1,6 @@
 service_account.json
+twilioAccountSid.js
+twilioAuthToken.js
 
 # Logs
 logs
